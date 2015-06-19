@@ -9,6 +9,7 @@ Basics
 - [Python documentation](https://www.python.org/doc/)
 - [Codecademy](http://www.codecademy.com/en/tracks/python):  online interactive tutorial platform
 - [IPython](http://ipython.org/): interactive shell and web-based [Notebook](http://ipython.org/notebook.html)
+
 Intermediate
 ----------------------------
 - [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures): lecture notes at github
@@ -16,7 +17,6 @@ Intermediate
 
 Finance Applications
 -----------------------------
-
 - [Python Quants](http://www.pythonquants.com/)
 - 
  -- [Quant Platform](https://trial.quant-platform.com/)
