@@ -9,10 +9,12 @@ Basics
 - [Python documentation](https://www.python.org/doc/)
 - [Codecademy](http://www.codecademy.com/en/tracks/python):  online interactive tutorial platform
 - [IPython](http://ipython.org/): interactive shell and web-based [Notebook](http://ipython.org/notebook.html)
+
 Intermediate
 ----------------------------
 - [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures): lecture notes at github
 - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793/ref=pd_sim_14_7?ie=UTF8&refRID=184BGJSVZFH6X47GB655)
+
 Finance Applications
 -----------------------------
 
