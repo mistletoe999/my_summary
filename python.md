@@ -16,9 +16,8 @@ Intermediate
 - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793/ref=pd_sim_14_7?ie=UTF8&refRID=184BGJSVZFH6X47GB655)
 
 Finance Applications
------------------------------
+-----------------------------------------------------
 - [Python Quants](http://www.pythonquants.com/)
-- 
  -- [Quant Platform](https://trial.quant-platform.com/)
  -- [DX Analytics library](http://dx-analytics.com/)
  -- [For Python Quant Conference](http://forpythonquants.com/)
