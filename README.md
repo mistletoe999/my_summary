@@ -16,4 +16,4 @@ Web sites
 
 The user's site is:
 
-    http://www.scipy.org/
+http://rogerdudler.github.io/git-guide/
