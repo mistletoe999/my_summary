@@ -13,6 +13,7 @@ Intermediate
 ----------------------------
 - [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures): lecture notes at github
 - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793/ref=pd_sim_14_7?ie=UTF8&refRID=184BGJSVZFH6X47GB655)
+
 Finance Applications
 -----------------------------
 
@@ -30,7 +31,7 @@ Finance Applications
 - [PyAlgoTrade](http://gbeced.github.io/pyalgotrade/): Python Algorithmic Trading Library 
 - [blpapi-py library](https://github.com/filmackay/blpapi-py): Bloomberg Python API
 - [Financial Modelling in Python](http://www.amazon.com/Financial-Modelling-Python-Shayne-Fletcher/dp/0470987847/ref=sr_1_1?s=books&ie=UTF8&qid=1433686212&sr=1-1&keywords=Financial+Modelling+in+Python&pebp=1433686264314&perid=12Y1R86MYEPG18DFWCM3)
-- 
+
 Web Applications
 ---------------------
 - [Web Scraping with Python: A Comprehensive Guide to Data Collection Solutions](http://www.amazon.com/Web-Scraping-Python-Comprehensive-Collection/dp/1491910291/ref=sr_1_2?ie=UTF8&qid=1433580298&sr=8-2&keywords=python+scrapy)
