@@ -18,10 +18,10 @@ Intermediate
 Finance Applications
 -----------------------------------------------------
 - [Python Quants](http://www.pythonquants.com/)
- -- [Quant Platform](https://trial.quant-platform.com/)
- -- [DX Analytics library](http://dx-analytics.com/)
- -- [For Python Quant Conference](http://forpythonquants.com/)
- -- [Python for Finance: Analyze Big Financial Data](http://www.amazon.com/Python-Finance-Analyze-Financial-Data/dp/1491945281/ref=sr_1_1?ie=UTF8&qid=1433572126&sr=8-1&keywords=python+for+finance&pebp=1433572128687&perid=0537P95FCEPE8M2VPF2Y)
+ * [Quant Platform](https://trial.quant-platform.com/)
+ * [DX Analytics library](http://dx-analytics.com/)
+ * [For Python Quant Conference](http://forpythonquants.com/)
+ * [Python for Finance: Analyze Big Financial Data](http://www.amazon.com/Python-Finance-Analyze-Financial-Data/dp/1491945281/ref=sr_1_1?ie=UTF8&qid=1433572126&sr=8-1&keywords=python+for+finance&pebp=1433572128687&perid=0537P95FCEPE8M2VPF2Y)
  -- [Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging](http://www.amazon.com/Derivatives-Analytics-Python-Simulation-Calibration/dp/1119037999/ref=sr_1_2?s=books&ie=UTF8&qid=1433572170&sr=1-2)
 
 - [Quantstart](https://www.quantstart.com/): Algorithmic trading
