@@ -38,7 +38,7 @@ git clone https://github.com/mistletoe999/my_summary.git
  ```
  
  
- #Push a local repository to github 
+ ##Push a local repository to github 
  
  [Create a repository on GitHub](https://help.github.com/articles/create-a-repo/): my_summary
  
