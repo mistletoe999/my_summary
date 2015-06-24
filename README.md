@@ -11,9 +11,6 @@ git clone https://github.com/mistletoe999/summary.git
 
 
 
-Web sites
----------
+##Reference
 
-The user's site is:
-
-http://rogerdudler.github.io/git-guide/
+* http://rogerdudler.github.io/git-guide/
