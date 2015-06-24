@@ -36,9 +36,9 @@ git remote add upstream https://github.com/mistletoe999/my_summary.git
  
 ##Push a local repository to github 
  
-[Create a repository on GitHub](https://help.github.com/articles/create-a-repo/): my_python
+[Create a repository on GitHub](https://help.github.com/articles/create-a-repo/): my_python  (for the first time)
  
-Create and initialize a local repository 
+Create and initialize a local repository (for the first time) 
 ```
 mkdir my_python
 cd my_python
