@@ -34,6 +34,10 @@ git remote -v
 git remote add upstream https://github.com/mistletoe999/my_summary.git
 ```
  
+git pull origin master
+ 
+ 
+ 
 ##Push a local repository to github 
  
 [Create a repository on GitHub](https://help.github.com/articles/create-a-repo/): my_python  (for the first time)
