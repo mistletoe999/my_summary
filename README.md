@@ -15,15 +15,15 @@ git config --global user.email "boyuwei@gmail.com"
 
 ##Pull changes in Github to local repository
  
-[Fork a repository](https://help.github.com/articles/fork-a-repo/)
+[Fork a repository](https://help.github.com/articles/fork-a-repo/)  (for the first time)
  
-Create a local clone of a repository
+Create a local clone of a repository  (for the first time)
  
 ```
 git clone https://github.com/mistletoe999/my_summary.git
 ```
 
-Pull changes in Github to local repository
+Pull changes in Github to local repository 
  ```
 git pull origin master
 ``` 
@@ -31,7 +31,7 @@ git pull origin master
  
 ##Push a local repository to Github 
  
-[Create a repository on GitHub](https://help.github.com/articles/create-a-repo/): my_python  (for the first time)
+
  
 Create and initialize a local repository (for the first time) 
 ```
@@ -39,7 +39,7 @@ mkdir my_python
 cd my_python
 git init
 ```
-
+[Create a repository on GitHub](https://help.github.com/articles/create-a-repo/): my_python  (for the first time)
 ```
 git remote add origin https://github.com/mistletoe999/my_python.git
 ```
