@@ -13,7 +13,7 @@ git config --global user.email "boyuwei@gmail.com"
 
 
 
-
+##Pull changes in Github to local repository
  
 [Fork a repository](https://help.github.com/articles/fork-a-repo/)
  
@@ -23,13 +23,13 @@ Create a local clone of a repository
 git clone https://github.com/mistletoe999/my_summary.git
 ```
 
-pull the changes in Github to local repository
+Pull changes in Github to local repository
  ```
 git pull origin master
 ``` 
  
  
-##Push a local repository to github 
+##Push a local repository to Github 
  
 [Create a repository on GitHub](https://help.github.com/articles/create-a-repo/): my_python  (for the first time)
  
