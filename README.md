@@ -57,14 +57,10 @@ Add the URL for the remote repository: (for the first time)
 ```
 git remote add origin https://github.com/mistletoe999/my_python.git
 ```
-
+Push the local repository to GitHub
 ```
 git push origin master
 ```
-- [Adding an existing project to GitHub](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
-
-
-
 
 
 
