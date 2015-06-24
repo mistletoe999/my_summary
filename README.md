@@ -42,7 +42,8 @@ git init
 
 - 
 ```
-git clone https://github.com/mistletoe999/summary.git
+git add .
+git commit -m 'First commit'
 ```
 - [Adding an existing project to GitHub](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 
