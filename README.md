@@ -1,10 +1,19 @@
-#Gihub
+#Github
 --------------------------
 
 
  [Create a repository on GitHub](https://help.github.com/articles/create-a-repo/)
  
- Create a repository on local host
+ [Fork a repository](https://help.github.com/articles/fork-a-repo/)
+ 
+ [Create a local clone of a repository](https://help.github.com/articles/fork-a-repo/)
+ 
+ ```
+git clone https://github.com/mistletoe999/summary.git
+```
+ 
+ 
+ Create a local repository 
 
 ```
 mkdir my_rep
@@ -12,7 +21,7 @@ cd my_rep
 git init
 ```
 
-- [Fork a repository](https://help.github.com/articles/fork-a-repo/)
+- 
 ```
 git clone https://github.com/mistletoe999/summary.git
 ```
