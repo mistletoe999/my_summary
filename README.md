@@ -9,9 +9,13 @@
  [Create a local clone of a repository](https://help.github.com/articles/fork-a-repo/)
  
  ```
-git clone https://github.com/mistletoe999/summary.git
+git clone https://github.com/mistletoe999/my_summary.git
 ```
  
+ 
+ ```
+ git remote add upstream https://github.com/octocat/Spoon-Knife.git
+ ```
  
  Create a local repository 
 
