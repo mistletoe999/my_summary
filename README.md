@@ -11,10 +11,13 @@
  ```
 git clone https://github.com/mistletoe999/my_summary.git
 ```
- 
+ sync the local repository
  
  ```
- git remote add upstream https://github.com/octocat/Spoon-Knife.git
+ cd my_summary
+ git remote -v
+ git remote add upstream https://github.com/mistletoe999/my_summary.git
+ 
  ```
  
  Create a local repository 
