@@ -1,6 +1,18 @@
 #Github
 --------------------------
 
+##Installation
+```
+sudo apt-get install git
+```
+[Setting up Git](https://help.github.com/articles/set-up-git/#platform-linux)
+```
+git config --global user.name "mistletoe999"
+git config --global user.email "boyuwei@gmail.com"
+```
+
+
+
 
  [Create a repository on GitHub](https://help.github.com/articles/create-a-repo/)
  
