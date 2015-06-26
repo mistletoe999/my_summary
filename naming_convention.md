@@ -7,3 +7,6 @@
 |function|funName|
 |variable|var_name|
 |constant/macro|CONST_NAME|
+
+##Reference
+* https://www.python.org/dev/peps/pep-0008/#naming-conventions
