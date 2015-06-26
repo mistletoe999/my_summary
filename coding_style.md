@@ -1,6 +1,6 @@
 
 
-##Naming Convention
+##Naming Conventions
 | type|     name |
 |---------|------|
 |   directory/package  |  dir_name    | 
