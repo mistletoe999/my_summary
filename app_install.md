@@ -8,7 +8,7 @@ sudo apt-get install r-base-core
 ```
 * vim
 ```
-sudo apt-get install r-base-core
+sudo apt-get install vim
 ```
 ##install softwares directly
 * [atom editor](https://atom.io/)
