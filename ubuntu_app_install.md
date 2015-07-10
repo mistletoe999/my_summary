@@ -10,7 +10,7 @@ sudo apt-get install vim
 * Latex
 ```
 sudo apt-get install texlive
-sudo apt-get install maker
+sudo apt-get install texmaker
 ```
 Online tutorial: http://www.openvim.com/tutorial.html
 ##Install softwares directly
