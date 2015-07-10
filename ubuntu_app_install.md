@@ -1,4 +1,4 @@
-##Install softwares via "Terminal"
+##Install softwares via *Terminal*
 * R
 ```
 sudo apt-get install r-base-core
