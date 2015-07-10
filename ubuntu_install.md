@@ -3,8 +3,8 @@
 ##Preparation
 * Download Ubuntu
 * Dowoland and install *win32DiskImager*
-* Write the .iso file into USB flash disk with "win32DiskImager
-* Partition the disk on Windows: Start --> Computer Manamgement --> Disk Manamgement 
+* Write the .iso file into USB flash disk with *win32DiskImager*
+* Partition the disk on Windows: "Start" --> "Computer Manamgement" --> "Disk Manamgement" 
 
 ##Installation
 
