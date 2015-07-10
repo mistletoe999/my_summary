@@ -9,7 +9,7 @@
 ##Installation
 
 * See https://www.youtube.com/watch?v=A0z0olUImac
-
+* See the pictures in Dropbox
 ##Starting Windows from Ubuntu
 * Start the computer and press *Enter* 
 * Press *F12* and choose the startup device as "Windows Boot Manager" 
