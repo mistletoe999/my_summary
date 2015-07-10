@@ -53,7 +53,7 @@ git add --all
 ```
 Commit the files in the local repository
 ```
-git commit -m 'First commit'
+git commit -m 'Comments'
 ```
 
 
