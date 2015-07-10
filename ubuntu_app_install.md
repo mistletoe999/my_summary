@@ -10,6 +10,10 @@ sudo apt-get install r-base-core
 ```
 sudo apt-get install vim
 ```
+* Latex
+```
+sudo apt-get install texlive
+```
 Online tutorial: http://www.openvim.com/tutorial.html
 ##install softwares directly
 * [atom editor](https://atom.io/)
