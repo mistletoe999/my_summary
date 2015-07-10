@@ -1,7 +1,4 @@
-##install softwares via "Ubuntu Software center"
-* Dropbox
-
-##install softwares via "Terminal"
+##Install softwares via "Terminal"
 * R
 ```
 sudo apt-get install r-base-core
@@ -16,6 +13,8 @@ sudo apt-get install texlive
 sudo apt-get install maker
 ```
 Online tutorial: http://www.openvim.com/tutorial.html
-##install softwares directly
+##Install softwares directly
 * [atom editor](https://atom.io/)
 * Chrome
+* Dropbox
+
