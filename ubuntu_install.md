@@ -8,11 +8,13 @@
 
 ##Installation
 
+* See https://www.youtube.com/watch?v=A0z0olUImac
+
 ##Starting Windows from Ubuntu
 * Start the computer and press *Enter* 
 * Press *F12* and choose the startup device as "Windows Boot Manager" 
 
-* https://www.youtube.com/watch?v=A0z0olUImac
+
 
 ##Change fond size
 * "System Settings" --> "Universal Access" --> "Seeing" --> "Large Text"
