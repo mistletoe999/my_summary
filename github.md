@@ -40,6 +40,8 @@ cd my_python
 git init
 ```
 [Create a repository on GitHub](https://help.github.com/articles/create-a-repo/): my_python  (for the first time)
+
+Add the URL for the remote repository: (for the first time)
 ```
 git remote add origin https://github.com/mistletoe999/my_python.git
 ```
@@ -53,7 +55,7 @@ Commit the files in the local repository
 ```
 git commit -m 'First commit'
 ```
-Add the URL for the remote repository: (for the first time)
+
 
 Push the local repository to GitHub
 ```
