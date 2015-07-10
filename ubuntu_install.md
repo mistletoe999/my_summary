@@ -1,10 +1,14 @@
 #Installation of Ubuntu 15.04 on Windows 8.1
-
+------------------------------
+##Preparation
 * Download Ubuntu
 * Dowoland and install *win32DiskImager*
 * write the .iso file into USB flash disk with "win32DiskImager
 * partition the disk on Windows: Start --> Computer Manamgement --> Disk Manamgement 
 
+##Installation
+
+##Starting Windows from Ubuntu
 
 ##Change fond size
 * "System Settings" --> "Universal Access" --> "Seeing" --> "Large Text"
