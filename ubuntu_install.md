@@ -9,7 +9,9 @@
 ##Installation
 
 ##Starting Windows from Ubuntu
-
+* Start the computer and press *Enter* 
+* Press *F12* and choose the startup device as "Windows Boot Manager" 
+* 
 ##Change fond size
 * "System Settings" --> "Universal Access" --> "Seeing" --> "Large Text"
 
