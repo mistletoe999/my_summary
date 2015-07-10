@@ -19,7 +19,7 @@
 ##Change fond size
 * "System Settings" --> "Universal Access" --> "Seeing" --> "Large Text"
 
-##Change fond color in terminal 
+##Change fond color of terminal 
 * Open the file .bashrc in your home directory
 ```
 gedit .bashrc
