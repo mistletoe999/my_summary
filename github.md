@@ -23,7 +23,7 @@ Create a local clone of a repository  (for the first time)
 git clone https://github.com/mistletoe999/my_summary.git
 ```
 
-Pull changes in Github to local repository 
+Pull changes in Github to local repository in a lcoal repository 
  ```
 git pull origin master
 ``` 
