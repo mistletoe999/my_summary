@@ -11,6 +11,9 @@
 |variable|var_name|
 |constant/macro|CONST_NAME|
 
+## Coding style
+* Wrap lines so that they don’t exceed 79 characters
+
 ##Documentation
 * Doxygen for C++
 * Sphinx for python
