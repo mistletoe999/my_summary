@@ -1,0 +1,2 @@
+* sublime: editor
+* Windows PowerShell
