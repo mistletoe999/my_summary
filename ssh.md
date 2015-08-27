@@ -12,3 +12,5 @@ sudo service ssh restart
 ```
 ssh wc@147.8.212.107
 ```
+
+- https://help.ubuntu.com/lts/serverguide/openssh-server.html
